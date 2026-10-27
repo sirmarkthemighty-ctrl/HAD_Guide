@@ -8,6 +8,8 @@ runs in the browser, with no installation and no data sent anywhere.
 It is decision support for healthcare professionals, not a substitute for the KKU HAD documents, your hospital's
 protocols, product labels or clinical judgement.
 
+**Open it:** https://sirmarkthemighty-ctrl.github.io/HAD_Guide/
+
 ## What it contains
 
 - 21 drugs (vasopressors/inotropes, vasodilators, antithrombotics incl. DOACs and LMWH, antiarrhythmics,
