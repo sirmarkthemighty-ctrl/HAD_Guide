@@ -1,0 +1,19 @@
+HAD Drug Guide
+Copyright (c) 2026 Warodom Phaenthong, M.D.
+
+The app's source code, layout and calculators are licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+The full licence text is in the LICENSE file and at
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+No warranty. The guide is decision support for healthcare professionals. It does not replace the
+source documents, local hospital protocols, product labels or clinical judgement.
+
+Not covered by this licence:
+- The drug content (strengths, recipes, doses, monitoring, critical points, cautions, adverse effects,
+  antidotes) is summarised from "แนวทางการใช้ยา High Alert Drugs (HAD) 2026", Department of Pharmacy,
+  Srinagarind Hospital, Faculty of Medicine, Khon Kaen University (documents SD-3.17-05/xx,
+  https://pharm.md.kku.ac.th/post/306 and /post/307). That content belongs to its authors.
+- Lines labelled "นอกแนวทาง KKU" summarise the Surviving Sepsis Campaign 2021 guideline, the 2022
+  AHA/ACC/HFSA heart failure guideline and the SOAP II trial; that content belongs to its publishers.
+- The source PDFs themselves are not included in this repository.
